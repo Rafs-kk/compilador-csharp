@@ -1,0 +1,11 @@
+/home/rafs/eclipse-workspace/complicador/bin/Debug/netcoreapp3.1/complicador
+/home/rafs/eclipse-workspace/complicador/bin/Debug/netcoreapp3.1/complicador.deps.json
+/home/rafs/eclipse-workspace/complicador/bin/Debug/netcoreapp3.1/complicador.runtimeconfig.json
+/home/rafs/eclipse-workspace/complicador/bin/Debug/netcoreapp3.1/complicador.runtimeconfig.dev.json
+/home/rafs/eclipse-workspace/complicador/bin/Debug/netcoreapp3.1/complicador.dll
+/home/rafs/eclipse-workspace/complicador/bin/Debug/netcoreapp3.1/complicador.pdb
+/home/rafs/eclipse-workspace/complicador/obj/Debug/netcoreapp3.1/complicador.csprojAssemblyReference.cache
+/home/rafs/eclipse-workspace/complicador/obj/Debug/netcoreapp3.1/complicador.AssemblyInfoInputs.cache
+/home/rafs/eclipse-workspace/complicador/obj/Debug/netcoreapp3.1/complicador.AssemblyInfo.cs
+/home/rafs/eclipse-workspace/complicador/obj/Debug/netcoreapp3.1/complicador.dll
+/home/rafs/eclipse-workspace/complicador/obj/Debug/netcoreapp3.1/complicador.pdb
